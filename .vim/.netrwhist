@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/pnunn/.ansible/roles/nickjj.mariadb'
+let g:netrw_dirhist_2='/home/pnunn/.ansible/roles/nickjj.mariadb/defaults'
+let g:netrw_dirhist_3='/home/pnunn/Downloads/AEMO/pdrLoader/Production/v7.4.0/pdr/loader'
+let g:netrw_dirhist_4='/home/pnunn/Downloads/AEMO/pdrLoader/Production/v7.4.0/pdr/loader/Lib'
